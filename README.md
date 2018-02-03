@@ -1,2 +1,2 @@
 # cuddly-googles
-## Expensify App (Working-Title) :metal: :zap:
+## Working-Title App :red_circle:  /play secret
