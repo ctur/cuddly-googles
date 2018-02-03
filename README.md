@@ -1,2 +1,2 @@
 # cuddly-googles
-## Working-Title App :red_circle:  /play secret
+## Working-Title App :red_circle: 
